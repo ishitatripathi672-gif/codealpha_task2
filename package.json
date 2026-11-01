@@ -1,0 +1,9 @@
+{
+  "name": "mini-social",
+  "version": "1.0.0",
+  "description": "Mini social media app: profiles, posts, comments, likes, follows",
+  "main": "server.js",
+  "engines": { "node": ">=22.13" },
+  "scripts": { "start": "node --no-warnings server.js" },
+  "dependencies": { "express": "^4.19.2" }
+}
